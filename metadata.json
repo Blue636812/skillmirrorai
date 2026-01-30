@@ -1,0 +1,8 @@
+{
+  "name": "SkillMirror AI",
+  "description": "Reflect. Improve. Master Your Skills. A next-generation AI web platform for professional self-improvement.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
